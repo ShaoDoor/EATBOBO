@@ -11,3 +11,7 @@
 联系方式：
 
 https://t.me/shaodoor
+
+游玩吃掉博博的地址在下面:
+
+https://shaodoor.github.io/EATBOBO
